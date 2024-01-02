@@ -1,2 +1,2 @@
 # Leetcode_Practice
-Leetcode questions practice using Python
+Leetcode Blind 75 questions practice using Python
